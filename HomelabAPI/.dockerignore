@@ -1,0 +1,38 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# VS Code
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vs/
+.idea/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet packages (will be restored)
+packages/
